@@ -59,5 +59,9 @@ input[type="text"], input[type="password"], input[type="number"], input[type="em
     color: #ACE1AF;
 }
 
+h2 {
+    color: blue;
+}
+
 
 
